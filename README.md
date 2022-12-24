@@ -1,4 +1,4 @@
-# Delete all messages in a Discord channel or DM
+# Delete all messages in a Discord channel or DM.
 
 1. Select and Copy this script: [DiscordMessages.js](https://raw.githubusercontent.com/SaaudDev/DiscordMessages/master/DiscordMessages.js)
 
